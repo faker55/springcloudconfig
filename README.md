@@ -1,0 +1,2 @@
+# springcloudconfig
+用来存放springcloud_configserver的配置的仓库
